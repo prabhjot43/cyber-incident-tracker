@@ -1,0 +1,61 @@
+created_at,closed_at,severity,category,system,description,reporter,status
+2025-04-07 16:06:00,,Critical,DDoS,WebApp,Simulated DDoS event detected on WebApp.,User Report,Open
+2025-06-14 17:30:00,2025-06-15 05:30:00,High,Malware,Email,Simulated Malware event detected on Email.,Automated Sensor,Closed
+2025-03-16 11:20:00,2025-03-16 13:20:00,Low,DDoS,WebApp,Simulated DDoS event detected on WebApp.,User Report,Closed
+2025-03-19 07:57:00,,Low,Malware,Database,Simulated Malware event detected on Database.,Analyst A,In Progress
+2025-04-10 15:07:00,2025-04-11 02:07:00,Low,Malware,VPN,Simulated Malware event detected on VPN.,SOC,Closed
+2025-04-05 13:43:00,2025-04-06 19:43:00,Medium,Access,Email,Simulated Access event detected on Email.,SOC,Closed
+2025-03-23 00:59:00,,Low,Phishing,WebApp,Simulated Phishing event detected on WebApp.,Analyst A,In Progress
+2025-07-15 09:06:00,2025-07-17 12:06:00,High,Malware,Endpoint,Simulated Malware event detected on Endpoint.,Analyst A,Closed
+2025-04-16 07:24:00,2025-04-18 02:24:00,High,Vulnerability,Firewall,Simulated Vulnerability event detected on Firewall.,SOC,Closed
+2025-07-28 20:12:00,2025-07-31 08:12:00,Critical,Malware,Endpoint,Simulated Malware event detected on Endpoint.,Analyst A,Closed
+2025-03-30 04:17:00,,Medium,DDoS,Database,Simulated DDoS event detected on Database.,Analyst B,Open
+2025-04-15 13:36:00,2025-04-17 04:36:00,Low,DDoS,Endpoint,Simulated DDoS event detected on Endpoint.,Analyst A,Closed
+2025-07-27 03:49:00,2025-07-27 22:49:00,Medium,Access,VPN,Simulated Access event detected on VPN.,User Report,Closed
+2025-06-07 19:44:00,2025-06-08 05:44:00,Low,Access,Firewall,Simulated Access event detected on Firewall.,SOC,Closed
+2025-07-09 03:23:00,2025-07-11 14:23:00,High,Phishing,Database,Simulated Phishing event detected on Database.,SOC,Closed
+2025-06-29 15:30:00,2025-07-01 07:30:00,High,Malware,WebApp,Simulated Malware event detected on WebApp.,Analyst B,Closed
+2025-06-03 14:45:00,2025-06-05 16:45:00,High,Malware,VPN,Simulated Malware event detected on VPN.,User Report,Closed
+2025-03-30 14:55:00,2025-03-31 23:55:00,Medium,Phishing,Email,Simulated Phishing event detected on Email.,Analyst A,Closed
+2025-05-31 10:15:00,2025-06-01 09:15:00,Medium,DDoS,Database,Simulated DDoS event detected on Database.,Automated Sensor,Closed
+2025-07-15 05:46:00,2025-07-16 09:46:00,Medium,Vulnerability,Database,Simulated Vulnerability event detected on Database.,User Report,Closed
+2025-06-09 10:59:00,2025-06-10 09:59:00,Low,DDoS,WebApp,Simulated DDoS event detected on WebApp.,Analyst B,Closed
+2025-05-20 22:27:00,2025-05-23 08:27:00,Medium,Malware,Email,Simulated Malware event detected on Email.,SOC,Closed
+2025-05-08 12:14:00,2025-05-08 15:14:00,High,Access,Endpoint,Simulated Access event detected on Endpoint.,User Report,Closed
+2025-04-01 22:16:00,2025-04-04 12:16:00,Medium,Phishing,Email,Simulated Phishing event detected on Email.,User Report,Closed
+2025-07-14 10:41:00,2025-07-14 16:41:00,Medium,Phishing,Email,Simulated Phishing event detected on Email.,Automated Sensor,Closed
+2025-06-28 23:38:00,,Low,DDoS,Email,Simulated DDoS event detected on Email.,Automated Sensor,Open
+2025-03-26 16:00:00,2025-03-27 02:00:00,High,DDoS,WebApp,Simulated DDoS event detected on WebApp.,User Report,Closed
+2025-07-12 07:20:00,2025-07-14 18:20:00,Low,Ransomware,WebApp,Simulated Ransomware event detected on WebApp.,SOC,Closed
+2025-04-10 19:07:00,2025-04-11 07:07:00,Medium,Access,Database,Simulated Access event detected on Database.,Analyst A,Closed
+2025-03-31 09:46:00,2025-04-03 00:46:00,Critical,Phishing,WebApp,Simulated Phishing event detected on WebApp.,User Report,Closed
+2025-05-28 09:37:00,2025-05-30 05:37:00,Medium,Vulnerability,Database,Simulated Vulnerability event detected on Database.,Analyst B,Closed
+2025-04-09 18:03:00,2025-04-12 02:03:00,Medium,DDoS,VPN,Simulated DDoS event detected on VPN.,SOC,Closed
+2025-06-11 03:36:00,2025-06-13 00:36:00,Medium,Ransomware,Endpoint,Simulated Ransomware event detected on Endpoint.,Analyst B,Closed
+2025-07-21 11:56:00,2025-07-22 23:56:00,Critical,Ransomware,Endpoint,Simulated Ransomware event detected on Endpoint.,Analyst A,Closed
+2025-06-07 20:36:00,,High,DDoS,VPN,Simulated DDoS event detected on VPN.,SOC,In Progress
+2025-05-11 07:07:00,2025-05-12 23:07:00,Low,Access,Email,Simulated Access event detected on Email.,SOC,Closed
+2025-03-10 09:19:00,,Low,DDoS,Endpoint,Simulated DDoS event detected on Endpoint.,Analyst A,In Progress
+2025-06-02 05:10:00,2025-06-05 02:10:00,Low,Vulnerability,Email,Simulated Vulnerability event detected on Email.,Automated Sensor,Closed
+2025-04-29 07:17:00,,Low,DDoS,Firewall,Simulated DDoS event detected on Firewall.,Analyst B,In Progress
+2025-03-17 11:58:00,2025-03-20 06:58:00,Low,Ransomware,Firewall,Simulated Ransomware event detected on Firewall.,User Report,Closed
+2025-03-25 14:12:00,2025-03-27 16:12:00,Low,Vulnerability,Endpoint,Simulated Vulnerability event detected on Endpoint.,Analyst A,Closed
+2025-06-28 19:31:00,2025-07-01 12:31:00,Low,Phishing,WebApp,Simulated Phishing event detected on WebApp.,User Report,Closed
+2025-05-05 19:40:00,2025-05-07 21:40:00,High,Malware,Email,Simulated Malware event detected on Email.,Analyst A,Closed
+2025-07-10 00:26:00,2025-07-10 11:26:00,Critical,Ransomware,Firewall,Simulated Ransomware event detected on Firewall.,Analyst A,Closed
+2025-07-22 19:39:00,2025-07-23 04:39:00,Medium,Ransomware,WebApp,Simulated Ransomware event detected on WebApp.,Analyst A,Closed
+2025-04-14 08:49:00,2025-04-17 03:49:00,Medium,Vulnerability,Endpoint,Simulated Vulnerability event detected on Endpoint.,Automated Sensor,Closed
+2025-03-21 12:16:00,,Medium,DDoS,Database,Simulated DDoS event detected on Database.,Analyst A,In Progress
+2025-03-19 16:42:00,2025-03-22 16:42:00,High,Access,VPN,Simulated Access event detected on VPN.,Analyst B,Closed
+2025-05-28 00:18:00,,Medium,Access,Endpoint,Simulated Access event detected on Endpoint.,SOC,In Progress
+2025-03-07 18:48:00,2025-03-07 22:48:00,Medium,Phishing,Database,Simulated Phishing event detected on Database.,Analyst A,Closed
+2025-03-17 08:27:00,2025-03-18 06:27:00,Critical,Access,Database,Simulated Access event detected on Database.,Analyst A,Closed
+2025-07-15 16:31:00,2025-07-16 09:31:00,Medium,DDoS,Firewall,Simulated DDoS event detected on Firewall.,Analyst B,Closed
+2025-05-06 20:03:00,2025-05-09 02:03:00,High,DDoS,Database,Simulated DDoS event detected on Database.,SOC,Closed
+2025-02-24 09:01:00,2025-02-25 15:01:00,Medium,Vulnerability,Email,Simulated Vulnerability event detected on Email.,Analyst A,Closed
+2025-07-28 12:42:00,2025-07-31 04:42:00,Medium,Ransomware,Endpoint,Simulated Ransomware event detected on Endpoint.,User Report,Closed
+2025-03-05 06:06:00,,Medium,Ransomware,VPN,Simulated Ransomware event detected on VPN.,Analyst B,In Progress
+2025-07-26 21:20:00,2025-07-29 18:20:00,Medium,Access,Database,Simulated Access event detected on Database.,Analyst B,Closed
+2025-06-06 17:47:00,2025-06-08 14:47:00,High,Access,Database,Simulated Access event detected on Database.,Analyst B,Closed
+2025-06-15 23:22:00,,Medium,Malware,Endpoint,Simulated Malware event detected on Endpoint.,Analyst B,Open
+2025-06-01 05:14:00,,Low,DDoS,Email,Simulated DDoS event detected on Email.,Automated Sensor,In Progress
