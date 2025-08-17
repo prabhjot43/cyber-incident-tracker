@@ -1,0 +1,6 @@
+*.db
+*.pdf
+*.png
+__pycache__/
+.DS_Store
+reports/
